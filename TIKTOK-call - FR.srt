@@ -1,0 +1,213 @@
+1
+00:00:00,049 --> 00:00:01,920
+Um, Ma maman est en danger!
+
+2
+00:00:02,500 --> 00:00:04,170
+D'accord, qui est avec toi??
+
+3
+00:00:05,020 --> 00:00:05,420
+Personne!
+
+4
+00:00:05,729 --> 00:00:08,029
+! 
+Quelle est la distance entre
+le buggy et l'endroit où tu te trouve?
+
+5
+00:00:08,059 --> 00:00:09,889
+Combien de temps faut-il
+pour revenir vers maman?
+
+6
+00:00:10,299 --> 00:00:11,190
+C'est un long chemin.
+
+7
+00:00:11,380 --> 00:00:12,530
+C'est un long chemin, c'est ça?
+
+8
+00:00:13,080 --> 00:00:13,370
+Oui.
+
+9
+00:00:13,609 --> 00:00:15,289
+D'accord, quel age as-tu?
+
+10
+00:00:15,920 --> 00:00:16,210
+Quatre.
+
+11
+00:00:16,470 --> 00:00:17,049
+Tu as quatre ans?
+
+12
+00:00:17,320 --> 00:00:17,610
+Oui.
+
+13
+00:00:17,989 --> 00:00:18,229
+D'accord.
+
+14
+00:00:18,229 --> 00:00:20,059
+Tu fais du bon travail, d'accord?
+
+15
+00:00:20,064 --> 00:00:20,089
+Oui.
+
+16
+00:00:20,110 --> 00:00:21,769
+Donc, reste au téléphone avec moi.
+
+17
+00:00:21,769 --> 00:00:23,239
+Je m'appelle Matt, D'accord?
+
+18
+00:00:23,390 --> 00:00:25,519
+Respire, Respire lentement et profendément.
+
+19
+00:00:25,519 --> 00:00:26,509
+Dis moi ce qui s'est passé.
+
+20
+00:00:26,949 --> 00:00:28,250
+Mon chat et à coté de moi.
+
+21
+00:00:28,319 --> 00:00:29,530
+Ton chat et à coté de toi?
+
+22
+00:00:29,599 --> 00:00:30,850
+Oui, c'est Parker.
+
+23
+00:00:30,869 --> 00:00:32,539
+Alors, Parker est-il toujours là avec toi?
+
+24
+00:00:32,759 --> 00:00:33,050
+Oui.
+
+25
+00:00:33,429 --> 00:00:33,849
+Il est là.
+
+26
+00:00:33,879 --> 00:00:34,170
+D'accord-
+
+27
+00:00:34,420 --> 00:00:35,990
+Il commence à s'endormir.
+
+28
+00:00:36,440 --> 00:00:37,429
+Il commence à s'endormir?
+
+29
+00:00:37,429 --> 00:00:37,489
+Oui.
+
+30
+00:00:38,654 --> 00:00:41,535
+D'accord, Georgia, Comme je l'ai dis, je vais
+rester au téléphone avec toi jusqu'à ce que l'aide arrive.
+
+31
+00:00:42,014 --> 00:00:48,324
+Maman- Maman conduisait son camion
+dans le buggy et son camion est tombé sur le haut.
+
+32
+00:00:48,394 --> 00:00:49,675
+Ah D'accord.
+
+33
+00:00:49,904 --> 00:00:52,834
+Je n'ai pas peur.
+
+34
+00:00:53,144 --> 00:00:53,375
+Oui.
+
+35
+00:00:53,655 --> 00:00:55,179
+Donc, c'était dans le paddock, c'est ça?
+
+36
+00:00:55,830 --> 00:00:58,800
+Oui, c'est tombé sur le paddock.
+
+37
+00:00:58,910 --> 00:01:00,239
+C'est tombé sur le paddock?
+
+38
+00:01:00,390 --> 00:01:00,679
+Oui.
+
+39
+00:01:01,149 --> 00:01:01,440
+D'accord.
+
+40
+00:01:01,459 --> 00:01:03,280
+Et il était donc assez haut lorsqu'il est tombé?
+
+41
+00:01:04,339 --> 00:01:08,160
+Oui, mais je... tu dois aller là-bas.
+
+42
+00:01:08,660 --> 00:01:10,740
+Alors, est-ce que papa travaille chez Foster ou....
+
+43
+00:01:10,740 --> 00:01:13,960
+Il travaille dans, um, um une ferme.
+
+44
+00:01:13,960 --> 00:01:15,179
+Il travaille dans une ferme?
+
+45
+00:01:15,369 --> 00:01:15,660
+Oui.
+
+46
+00:01:15,660 --> 00:01:17,899
+Une ferme d'élevage de be bétail.
+
+47
+00:01:17,960 --> 00:01:18,899
+Ah, une ferme d'élevage de bétail.
+
+48
+00:01:19,149 --> 00:01:20,710
+Il doit donc vraiment aimer votre bétail.
+
+49
+00:01:21,160 --> 00:01:21,740
+Oui monsieur.
+
+50
+00:01:22,050 --> 00:01:22,340
+Oui?
+
+51
+00:01:22,560 --> 00:01:23,690
+Est-ce qu'ils font beacoup de bruits?
+
+52
+00:01:24,080 --> 00:01:25,970
+Ils font "moooooo"
+
